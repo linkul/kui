@@ -26,6 +26,9 @@
   "scripts": {
     "test": "grunt test"
   },
+  "bin": {
+    "kui": "bin/kui.js"
+  },
   "devDependencies": {
     "connect-combo": "0.2.7",
     "fs-extra": "0.12.0",

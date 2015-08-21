@@ -1,7 +1,7 @@
 {
   "name": "kui",
   "description": "kui打包工具",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/linkul/kui",
   "author": {
     "name": "linkul",
@@ -27,41 +27,9 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "connect-combo": "0.2.7",
-    "fs-extra": "0.12.0",
-    "grunt-contrib-clean": "0.6.0",
-    "grunt-contrib-compass": "~v1.0.1",
-    "grunt-contrib-connect": "0.8.0",
-    "grunt-contrib-copy": "0.5.0",
-    "grunt-contrib-cssmin": "0.10.0",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-uglify": "0.6.0",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-micro-tpl-compiler": "0.0.7",
-    "grunt-newer": "0.8.0",
-    "grunt-shell": "0.6.4",
-    "grunt-string-replace": "~1.0.0",
-    "jshint-stylish": "1.0.0",
-    "matchdep": "0.3.0",
-    "time-grunt": "1.0.0",
-    "grunt-contrib-requirejs": "~0.4.1",
-    "grunt-recess": "~0.5.0",
-    "grunt-preprocess": "4.0.0"
   },
-  "dependencies": {
-    "grunt-string-replace": "~1.0.0",
-    "prompt": "~0.1.12"
-  },
-  "peerDependencies": {
-    "grunt": "~0.4.0"
-  },
+
   "keywords": [
     "kui"
-  ],
-  "readme": "ERROR: No README data found!",
-  "readmeFilename": "README.md",
-  "gitHead": "8bde80dc65c8f46d4ecdcd7b420d1a7ab8fbb38e",
-  "_id": "kui@0.1.0",
-  "_shasum": "5e9f53be8b58a7a8cef8d634be9fbab9d60d821e",
-  "_from": "kui@"
+  ]
 }

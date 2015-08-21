@@ -26,9 +26,6 @@
   "scripts": {
     "test": "grunt test"
   },
-  "bin": {
-    "kui": "bin/kui.js"
-  },
   "devDependencies": {
     "connect-combo": "0.2.7",
     "fs-extra": "0.12.0",
@@ -60,5 +57,11 @@
   },
   "keywords": [
     "kui"
-  ]
+  ],
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "gitHead": "8bde80dc65c8f46d4ecdcd7b420d1a7ab8fbb38e",
+  "_id": "kui@0.1.0",
+  "_shasum": "5e9f53be8b58a7a8cef8d634be9fbab9d60d821e",
+  "_from": "kui@"
 }
